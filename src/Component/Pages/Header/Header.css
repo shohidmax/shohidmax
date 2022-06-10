@@ -1,0 +1,8 @@
+.buttonc{
+    text-transform: capitalize;
+    color: rgb(0, 0, 0) !important;
+
+}
+.buttonc:hover {
+    border-bottom: 1px solid black !important;
+  }
